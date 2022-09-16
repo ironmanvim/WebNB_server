@@ -13,7 +13,7 @@ graphql-server-core==1.1.1
 jdcal==1.4.1
 Jinja2==2.10.1
 macholib==1.11
-Mako==1.1.0
+Mako==1.2.2
 Markdown==3.1.1
 MarkupSafe==1.1.1
 promise==2.2.1
